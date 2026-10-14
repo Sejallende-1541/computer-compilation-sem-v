@@ -1,9 +1,3 @@
-Name : Sanskruti Gorle 
-PRN : 24070521025
-Batch : A1
-
-
-
 
 %{
 #include<stdio.h>
